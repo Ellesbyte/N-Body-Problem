@@ -1,2 +1,2 @@
 # ThreeBodyProblem
-N Body Problem Python script with visualizations
+Three Body Problem Python script with visualizations
